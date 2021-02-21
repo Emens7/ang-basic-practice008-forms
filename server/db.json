@@ -1,0 +1,37 @@
+{
+  "event": [
+    {
+      "id": 2,
+      "name": "ng-nl",
+      "date": "4/15/2037",
+      "time": "9am",
+      "location": {
+        "address": "127 DT ",
+        "city": "Amsterdam",
+        "country": "NL"
+      }
+    },
+    {
+      "id": 3,
+      "name": "ng-config 2037",
+      "date": "4/15/2037",
+      "time": "9am",
+      "location": {
+        "address": "The Palatial America Hotel",
+        "city": "Salt Lake City",
+        "country": "USA"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Angular Budapest",
+      "date": "22/2/2021",
+      "time": "9am",
+      "location": {
+        "address": "Internet",
+        "city": "Budapest",
+        "country": "Hungary-HUN"
+      }
+    }
+  ]
+}
